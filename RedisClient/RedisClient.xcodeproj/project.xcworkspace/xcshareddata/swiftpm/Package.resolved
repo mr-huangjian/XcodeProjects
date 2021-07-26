@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RediStack",
+        "repositoryURL": "https://gitlab.com/Mordil/RediStack",
+        "state": {
+          "branch": null,
+          "revision": "edadec93a18c4514b33b932c4957c9672b93d6cf",
+          "version": "1.1.2"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+          "version": "1.4.2"
+        }
+      },
+      {
+        "package": "swift-metrics",
+        "repositoryURL": "https://github.com/apple/swift-metrics.git",
+        "state": {
+          "branch": null,
+          "revision": "e382458581b05839a571c578e90060fff499f101",
+          "version": "2.1.1"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "d79e33308b0ac83326b0ead0ea6446e604b8162d",
+          "version": "2.30.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
