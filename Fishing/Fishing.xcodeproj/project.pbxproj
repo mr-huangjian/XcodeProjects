@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D3BC53E26D0D769009045B8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6D3BC53D26D0D768009045B8 /* README.md */; };
 		6DBB33DA26B04BB700DBF7D8 /* FishingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBB33D926B04BB700DBF7D8 /* FishingApp.swift */; };
 		6DBB33DC26B04BB700DBF7D8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBB33DB26B04BB700DBF7D8 /* ContentView.swift */; };
 		6DBB33DE26B04BBB00DBF7D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DBB33DD26B04BBB00DBF7D8 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6D3BC53D26D0D768009045B8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6DBB33D626B04BB700DBF7D8 /* Fishing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fishing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DBB33D926B04BB700DBF7D8 /* FishingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FishingApp.swift; sourceTree = "<group>"; };
 		6DBB33DB26B04BB700DBF7D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				6DBB33DD26B04BBB00DBF7D8 /* Assets.xcassets */,
 				6DBB33E226B04BBB00DBF7D8 /* Info.plist */,
 				6DBB33DF26B04BBB00DBF7D8 /* Preview Content */,
+				6D3BC53D26D0D768009045B8 /* README.md */,
 			);
 			path = Fishing;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D3BC53E26D0D769009045B8 /* README.md in Resources */,
 				6DBB33E126B04BBB00DBF7D8 /* Preview Assets.xcassets in Resources */,
 				6DBB33DE26B04BBB00DBF7D8 /* Assets.xcassets in Resources */,
 			);
